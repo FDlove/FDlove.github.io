@@ -5,9 +5,9 @@
 title: FDDeveloper
 description: |
   Be an idealistic programmer－－FDD
-owner: Your Name # or company name
+owner: 张东 # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: 975186901@qq.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fdlove.github.io/" # the base hostname & protocol for your site
 social:
